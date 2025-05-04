@@ -1,0 +1,24 @@
+id,name,type,seatCount,status,cinema_id
+1,Phòng 1 VIP,VIP,168,Hoạt động,1
+2,Phòng 2 IMAX,IMAX,99,Đang bảo trì,1
+3,Phòng 3 Standard,Standard,60,Đang bảo trì,1
+4,Phòng 1 IMAX,IMAX,48,Hoạt động,2
+5,Phòng 2 IMAX,IMAX,96,Đang bảo trì,2
+6,Phòng 3 4DX,4DX,72,Đang bảo trì,2
+7,Phòng 1 VIP,VIP,72,Đóng cửa,3
+8,Phòng 2 Standard,Standard,90,Đóng cửa,3
+9,Phòng 3 VIP,VIP,96,Đóng cửa,3
+10,Phòng 4 Standard,Standard,150,Đóng cửa,3
+11,Phòng 5 IMAX,IMAX,50,Đóng cửa,3
+12,Phòng 6 4DX,4DX,144,Hoạt động,3
+13,Phòng 7 IMAX,IMAX,121,Đang bảo trì,3
+14,Phòng 8 Standard,Standard,66,Đóng cửa,3
+15,Phòng 1 4DX,4DX,132,Đóng cửa,4
+16,Phòng 2 Standard,Standard,77,Đóng cửa,4
+17,Phòng 3 Standard,Standard,96,Đóng cửa,4
+18,Phòng 4 IMAX,IMAX,156,Hoạt động,4
+19,Phòng 5 VIP,VIP,84,Đóng cửa,4
+20,Phòng 1 VIP,VIP,54,Đóng cửa,5
+21,Phòng 2 4DX,4DX,75,Đang bảo trì,5
+22,Phòng 3 IMAX,IMAX,150,Đóng cửa,5
+23,Phòng 4 Standard,Standard,105,Đang bảo trì,5

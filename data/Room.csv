@@ -1,0 +1,12 @@
+﻿id,name,type,seatCount,status,cinema_id
+1,Phòng A,3D,105,Đang bảo trì,1
+2,Phòng B,3D,120,Đang bảo trì,1
+3,Phòng C,VIP,84,Hoạt động,1
+4,Phòng A,IMAX,98,Hoạt động,2
+5,Phòng B,VIP,96,Hoạt động,2
+6,Phòng C,3D,99,Hoạt động,2
+7,Phòng D,VIP,135,Hoạt động,2
+8,Phòng E,Tiêu chuẩn,120,Hoạt động,2
+9,Phòng A,3D,117,Hoạt động,3
+10,Phòng B,Tiêu chuẩn,72,Hoạt động,3
+11,Phòng C,VIP,54,Hoạt động,3

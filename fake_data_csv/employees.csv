@@ -1,0 +1,51 @@
+id,fullName,phoneNumber,position,username,password,email
+1,Jane Vũ,(05) 1192 8661,Staff,emp_jane21,i%1U!Sh2b$,emp_jane21@movieplex.com
+2,John Phạm,+84-21-381654,Manager,emp_john17,(LTE6dub3t,emp_john17@cinema.vn
+3,Jane Trần,06 9390 8437,Technician,emp_jane54,**J0CWoqby,emp_jane54@cinema.vn
+4,Jane Đặng,(00) 4226 5032,Cashier,emp_jane82,+7vUpsA*00,emp_jane82@cinema.vn
+5,Jane Trần,08 9508 6876,Cashier,emp_jane26,Q#A5&!b5qN,emp_jane26@cinema.vn
+6,Jane Nguyễn,+84-43-121624,Staff,emp_jane1,Ov+n3R2l#),emp_jane1@staff.local
+7,Jane Đặng,(08) 4339 7224,Technician,emp_jane32,*FDxTiwzd7,emp_jane32@movieplex.com
+8,John Trần,+84 14 2633973,Cashier,emp_john91,2K#K5ueH#5,emp_john91@movieplex.com
+9,Jane Bùi,(00)500-4850,Cashier,emp_jane64,PjAfbH8Z(4,emp_jane64@cinema.vn
+10,John Lê,02 6208 7726,Technician,emp_john51,)1J3vlSkR8,emp_john51@staff.local
+11,Jane Bùi,(03) 4906 3048,Manager,emp_jane79,$6jFlXE9*c,emp_jane79@staff.local
+12,John Dương,+84-45-629631,Technician,emp_john99,_E2t6iZlws,emp_john99@cinema.vn
+13,John Mai,+84-90-132 9096,Cashier,emp_john67,@mtxQ3Wq#R,emp_john67@staff.local
+14,John Hoàng,(06) 8449 6018,Technician,emp_john85,6r%)K#Js_7,emp_john85@staff.local
+15,Jane Vũ,+84-13-776951,Technician,emp_jane65,i&py9k7t%M,emp_jane65@movieplex.com
+16,Jane Vũ,07 8278 6074,Staff,emp_jane58,MMt9WA4ed+,emp_jane58@staff.local
+17,Jane Bùi,(03) 9724 4098,Manager,emp_jane15,UcR!rM7p+8,emp_jane15@staff.local
+18,Jane Lê,01 2114 3721,Technician,emp_jane66,+7RBpEdpeh,emp_jane66@cinema.vn
+19,John Lê,06 2721 9374,Cashier,emp_john69,x@67QjkD#T,emp_john69@movieplex.com
+20,Jane Lê,+84-62-387 2641,Manager,emp_jane85,Ks_5EPx*1g,emp_jane85@cinema.vn
+21,John Hoàng,+84-82-092 9345,Manager,emp_john97,dd1VRN^zU#,emp_john97@staff.local
+22,John Đặng,04 4397 3654,Staff,emp_john19,0vRbDhw&+2,emp_john19@staff.local
+23,Jane Lê,(04)970-1614,Manager,emp_jane48,%%HVBa1ae9,emp_jane48@movieplex.com
+24,John Dương,+84 53 1362551,Cashier,emp_john7,S9U_OCdE#u,emp_john7@movieplex.com
+25,John Trần,+84 56 0091992,Cashier,emp_john99521,nW^8XB@rKB,emp_john99@staff.local
+26,John Mai,(06) 8220 3636,Technician,emp_john75,^6@VJEn0_c,emp_john75@movieplex.com
+27,John Hoàng,(08)718-6888,Staff,emp_john16,OD%5M)5dkU,emp_john16@movieplex.com
+28,Jane Lê,01 8703 4056,Manager,emp_jane20,jMo0XuEg+d,emp_jane20@cinema.vn
+29,John Nguyễn,(00) 8340 0210,Cashier,emp_john62,OIX+6KlboH,emp_john62@movieplex.com
+30,Jane Mai,06 2220 1088,Cashier,emp_jane4,^I1tOOos(L,emp_jane4@staff.local
+31,Jane Trần,+84-35-674617,Manager,emp_jane26664,+1#jUFzM9^,emp_jane26@staff.local
+32,Jane Dương,+84-97-784 7009,Manager,emp_jane4231,D8HjYTpx)_,emp_jane4231@cinema.vn
+33,Jane Nguyễn,(03) 9266 2767,Cashier,emp_jane41,C_0pFp*stj,emp_jane41@cinema.vn
+34,Jane Dương,(04) 5905 6479,Technician,emp_jane49,ytM7tVoy*o,emp_jane49@staff.local
+35,Jane Vũ,+84 66 4505547,Manager,emp_jane37,M@FFx9Wef9,emp_jane37@movieplex.com
+36,Jane Mai,(00)335-1202,Cashier,emp_jane41589,SP_83!DcGr,emp_jane41589@staff.local
+37,Jane Trần,+84-80-795 1151,Staff,emp_jane55,+FTzDbkHx4,emp_jane55@staff.local
+38,Jane Vũ,09 8075357,Staff,emp_jane63,F#6^Ota(4C,emp_jane63@staff.local
+39,Jane Vũ,(04) 9872 7655,Technician,emp_jane53,*2GLyRYt*f,emp_jane53@cinema.vn
+40,Jane Phạm,(00) 3733 8551,Manager,emp_jane6,!2IOJwAp&K,emp_jane6@movieplex.com
+41,John Lê,+84-92-929 1985,Cashier,emp_john79,)1qDxYpt#8,emp_john79@movieplex.com
+42,John Dương,+84-37-260787,Manager,emp_john29,)H1r8hxb2V,emp_john29@staff.local
+43,Jane Nguyễn,+84-27-458157,Cashier,emp_jane35,+z6MI6ht64,emp_jane35@movieplex.com
+44,John Vũ,(01)555-2604,Technician,emp_john97327,u#3V(U@qjW,emp_john97@cinema.vn
+45,Jane Lê,+84-37-832 1579,Manager,emp_jane60,1r3pP4bC&x,emp_jane60@cinema.vn
+46,John Lê,+84 26 3990994,Staff,emp_john24,%Jrr^9Ezni,emp_john24@staff.local
+47,John Vũ,06 9665 7417,Cashier,emp_john12,8irC&yMy@$,emp_john12@cinema.vn
+48,John Đặng,+84 29 1367051,Cashier,emp_john4,+vvyyQXmb4,emp_john4@movieplex.com
+49,John Mai,09 0474037,Technician,emp_john77,e$)89Lo(xj,emp_john77@movieplex.com
+50,Jane Mai,03 3333696,Manager,emp_jane38,YmKwyTM9)4,emp_jane38@cinema.vn
